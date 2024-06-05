@@ -1,4 +1,4 @@
-# Day 11: Capstone Preperation
+# Capstone Preperation
 
 The examples in this folder are to assist students in integrating Express and Sequelize to create a RESTful API server. 
 
