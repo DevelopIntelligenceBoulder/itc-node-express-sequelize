@@ -1,4 +1,4 @@
-# Day 8: Introduction to Sequelize
+# Day 9: Introduction to Sequelize
 
 ## Table of Contents
 
