@@ -1,7 +1,5 @@
 # ITC Back-end Exercises: Building RESTful APIs with Node.js, Express, MySQL, and Sequelize
 
-Summary
-
 ## Duration
 
 10 Days
